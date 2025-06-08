@@ -1,3 +1,3 @@
 <?php
-	$conn = new mysqli("localhost", "root", "raki3154", "book", 3307);
+	$conn = new mysqli("localhost", "root", "pwd", "dbname", 3307);
 ?>
